@@ -1,6 +1,7 @@
 package com.example.demo.domain;
 
 public class Student {
+
     Integer id;
     String number;
     String name;
